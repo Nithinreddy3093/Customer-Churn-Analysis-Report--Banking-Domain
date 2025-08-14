@@ -67,17 +67,6 @@ This dashboard empowers banking stakeholders to:
 
 ---
 
-## 📷 Dashboard Preview
-*(Insert screenshot image here)*
-
----
-
-## 📥 How to Use
-1. Download the `.pbix` file from this repository.
-2. Open it in **Power BI Desktop**.
-3. Interact with slicers, filters, and visuals to explore insights.
-
----
 
 
 
